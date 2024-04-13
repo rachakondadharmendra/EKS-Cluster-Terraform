@@ -5,6 +5,8 @@ This folder outlines the process of configuring a remote backend for Terraform s
 ## Folder Structure
 
 - The `variables.tf` file is available for defining variables.
+
+```
 .
 ├── main.tf
 ├── modules
@@ -17,3 +19,4 @@ This folder outlines the process of configuring a remote backend for Terraform s
 │       ├── outputs.tf
 │       └── variables.tf
 └── outputs.tf
+```
